@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameOfThronesFragments</string>
+    <string name="select_a_character"><u>Select A Character:</u></string>
+    <string name="select_a_house"><u>Select A House:</u></string>
+
+    <string name="character_details"><u>Character Details:</u></string>
+    <string name="hold_the_door">Hold The Door</string>
+    <string name="join_knight_watch">Join Knight\'s Watch</string>
+    <string name="drink_some_wine">Drink Some Wine</string>
+    <string name="send_a_raven">Send A Raven</string>
+    <string name="call_the_banners">Call The Banners</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_hold_door"
+        android:title="@string/hold_the_door"
+        android:icon="@drawable/ic_smartphone_white_48dp"
+        android:orderInCategory="110"
+        android:showAsAction="always|withText"/>
+
+    <item android:id="@+id/action_join_knights_watch"
+        android:title="@string/join_knight_watch"
+        android:icon="@drawable/ic_ac_unit_white_48dp"
+        android:orderInCategory="120"/>
+
+    <item android:id="@+id/action_drink_wine"
+        android:icon="@drawable/ic_local_bar_white_48dp"
+        android:title="@string/drink_some_wine"
+        android:orderInCategory="130"/>
+
+</menu>

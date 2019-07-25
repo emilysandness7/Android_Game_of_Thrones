@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_send_raven"
+          android:title="@string/send_a_raven"
+          android:icon="@drawable/ic_flight_takeoff_white_48dp"
+        android:showAsAction="always|withText"
+          android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/action_call_banners"
+        android:title="@string/call_the_banners"
+        android:icon="@drawable/ic_flag_white_48dp"
+        android:orderInCategory="111"
+        />
+</menu>
